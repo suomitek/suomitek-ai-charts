@@ -67,23 +67,3 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
-
-metadata:
-  name: hub.suomitek.com
-  managedFields:
-    - manager: Mozilla
-      operation: Update
-      apiVersion: v1
-      time: '2020-08-23T17:29:52Z'
-      fieldsType: FieldsV1
-      fieldsV1:
-        'f:data':
-          .: {}
-          'f:.dockerconfigjson': {}
-        'f:type': {}
-data:
-  .dockerconfigjson: >-
-    eyJhdXRocyI6eyJodHRwczovL2h1Yi5zdW9taXRlay5jb206ODAwMi8iOnsidXNlcm5hbWUiOiJzdW9taXRlayIsInBhc3N3b3JkIjoiU3VvbWl0ZWsxMjMiLCJhdXRoIjoiYzNWdmJXbDBaV3M2VTNWdmJXbDBaV3N4TWpNPSJ9fX0=
-type: kubernetes.io/dockerconfigjson
-kind: Secret
-apiVersion: v1
