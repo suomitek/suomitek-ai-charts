@@ -39,6 +39,8 @@ https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-regi
 ## Helm Chart Reference
 https://www.consul.io/docs/k8s/helm
 
+https://www.kubeflow.org/docs/started/k8s/kfctl-k8s-istio/
+
 ```yaml
 image:
   repository: <repo>
