@@ -1,0 +1,1 @@
+The code for this project has been migrated to [emqx/emqx-rel](https://github.com/emqx/emqx-rel/tree/master/deploy/charts/emqx) and this project is no longer maintained
