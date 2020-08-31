@@ -62,7 +62,8 @@ resources: {}
   #   cpu: 100m
 #   memory: 128Mi
 
-nodeSelector: {}
+nodeSelector:
+  kubernetes.io/hostname: h3.corp.suomitek.com
 
 tolerations: []
 
