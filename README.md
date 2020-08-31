@@ -32,6 +32,10 @@ https://v3-0.docs.kubesphere.io/docs/cluster-administration/platform-settings/cu
 
 helm template
 
+
+## Pull an Image from a Private Registry
+https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/#create-a-secret-in-the-cluster-that-holds-your-authorization-token
+
 ```yaml
 image:
   repository: <repo>
