@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: hub.suomitek.com:8002/ai/chineseocr
-  tag: stable
+  tag: latest
   pullPolicy: IfNotPresent
 
 imagePullSecrets:
