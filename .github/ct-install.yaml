@@ -1,0 +1,14 @@
+chart-dirs:
+  - suomitek
+chart-repos:
+  - bitnami=https://charts.suomitek.com/suomitek
+debug: true
+excluded-charts:
+  - common
+  - kibana
+  - kong
+  - mariadb-galera
+  - discourse
+  - ejbca
+  - harbor
+remote: origin
