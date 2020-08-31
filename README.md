@@ -29,3 +29,25 @@ https://kubesphere.io/docs/zh-CN/quick-start/one-click-deploy/
 https://kubesphere.io/docs/zh-CN/system-settings/edit-system-settings/
 
 https://v3-0.docs.kubesphere.io/docs/cluster-administration/platform-settings/customize-basic-information/
+
+helm template
+
+```yaml
+image:
+  repository: <repo>
+  tag: <version tag>
+  pullPolicy: IfNotPresent
+imageCredentials:
+  registry: <repo>
+  username: <username>
+  password: <pw>
+```
+
+```yaml
+spec:
+  containers:
+  - name: some-pod
+    image: <image>
+  imagePullSecrets:
+  - name: <name-of your secret>
+```
