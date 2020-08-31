@@ -1,9 +1,9 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: {{ include "tensorflow2.0.fullname" . }}
+  name: {{ include "tensorflow2-0.fullname" . }}
   labels:
-{{ include "tensorflow2.0.labels" . | indent 4 }}
+{{ include "tensorflow2-0.labels" . | indent 4 }}
 spec:
   type: {{ .Values.service.type }}
   ports:
@@ -12,5 +12,5 @@ spec:
       protocol: TCP
       name: http
   selector:
-    app.kubernetes.io/name: {{ include "tensorflow2.0.name" . }}
+    app.kubernetes.io/name: {{ include "tensorflow2-0.name" . }}
     app.kubernetes.io/instance: {{ .Release.Name }}
