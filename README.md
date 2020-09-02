@@ -69,6 +69,8 @@ https://www.infoq.cn/article/Is2AppS3OzNyZgktwGUB
 [nbdev fastai](https://nbdev.fast.ai/)
 
 [fastai](https://www.fast.ai/)
+
+[invoice ocr](https://github.com/deeplearning2012/invoice)
 ```yaml
 image:
   repository: <repo>
