@@ -56,6 +56,9 @@ https://cloud.google.com/solutions/machine-learning/architecture-for-mlops-using
 ## TensorFlow Extended (TFX) 是一个端到端平台，用于部署生产型机器学习流水线
 https://www.tensorflow.org/tfx?hl=zh-cn
 
+## Kubeflow-K8S的机器学习工具包
+https://juejin.im/post/6844904131346300941
+
 ```yaml
 image:
   repository: <repo>
