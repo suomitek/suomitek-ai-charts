@@ -65,6 +65,8 @@ https://www.infoq.cn/article/Is2AppS3OzNyZgktwGUB
 [Kubeflow Fairing E2E MNIST Case: Building, Training and Serving](https://github.com/kubeflow/fairing/tree/master/examples/mnist)
 
 [MNIST on Kubeflow](https://github.com/kubeflow/examples/tree/master/mnist)
+
+[fastai](https://nbdev.fast.ai/)
 ```yaml
 image:
   repository: <repo>
