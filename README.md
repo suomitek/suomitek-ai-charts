@@ -53,6 +53,9 @@ https://yq.aliyun.com/articles/680267
 ## 使用 TFX、Kubeflow 流水线和 Cloud Build 的 MLOps 的架构
 https://cloud.google.com/solutions/machine-learning/architecture-for-mlops-using-tfx-kubeflow-pipelines-and-cloud-build?hl=zh-cn
 
+## TensorFlow Extended (TFX) 是一个端到端平台，用于部署生产型机器学习流水线
+https://www.tensorflow.org/tfx?hl=zh-cn
+
 ```yaml
 image:
   repository: <repo>
