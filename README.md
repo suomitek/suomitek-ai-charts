@@ -71,6 +71,8 @@ https://www.infoq.cn/article/Is2AppS3OzNyZgktwGUB
 [fastai](https://www.fast.ai/)
 
 [invoice ocr](https://github.com/deeplearning2012/invoice)
+
+[meituan openapi](https://developer.meituan.com/openapi)
 ```yaml
 image:
   repository: <repo>
