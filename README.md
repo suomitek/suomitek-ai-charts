@@ -41,6 +41,12 @@ https://www.consul.io/docs/k8s/helm
 
 https://www.kubeflow.org/docs/started/k8s/kfctl-k8s-istio/
 
+## Kubeflow Deployment with kfctl_k8s_istio
+https://www.kubeflow.org/docs/started/k8s/kfctl-k8s-istio/
+
+## Deploy using MiniKube on Linux
+https://www.kubeflow.org/docs/started/workstation/minikube-linux/
+
 ```yaml
 image:
   repository: <repo>
