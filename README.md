@@ -50,6 +50,9 @@ https://www.kubeflow.org/docs/started/workstation/minikube-linux/
 ## Kubeflow 使用指南
 https://yq.aliyun.com/articles/680267
 
+## 使用 TFX、Kubeflow 流水线和 Cloud Build 的 MLOps 的架构
+https://cloud.google.com/solutions/machine-learning/architecture-for-mlops-using-tfx-kubeflow-pipelines-and-cloud-build?hl=zh-cn
+
 ```yaml
 image:
   repository: <repo>
