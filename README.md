@@ -59,6 +59,9 @@ https://www.tensorflow.org/tfx?hl=zh-cn
 ## Kubeflow-K8S的机器学习工具包
 https://juejin.im/post/6844904131346300941
 
+## 开源 Kubeflow：在 Kubernetes 上运行机器学习
+https://www.infoq.cn/article/Is2AppS3OzNyZgktwGUB
+
 ```yaml
 image:
   repository: <repo>
