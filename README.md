@@ -66,7 +66,9 @@ https://www.infoq.cn/article/Is2AppS3OzNyZgktwGUB
 
 [MNIST on Kubeflow](https://github.com/kubeflow/examples/tree/master/mnist)
 
-[fastai](https://nbdev.fast.ai/)
+[nbdev fastai](https://nbdev.fast.ai/)
+
+[fastai](https://www.fast.ai/)
 ```yaml
 image:
   repository: <repo>
