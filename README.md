@@ -62,6 +62,10 @@ https://juejin.im/post/6844904131346300941
 ## 开源 Kubeflow：在 Kubernetes 上运行机器学习
 https://www.infoq.cn/article/Is2AppS3OzNyZgktwGUB
 
+[Build Components and Pipelines](https://www.kubeflow.org/docs/pipelines/sdk/build-component/#compile-the-pipeline)
+
+[Experiment with the Pipelines Samples](https://www.kubeflow.org/docs/pipelines/tutorials/build-pipeline/)
+
 [Kubeflow Fairing E2E MNIST Case: Building, Training and Serving](https://github.com/kubeflow/fairing/tree/master/examples/mnist)
 
 [MNIST on Kubeflow](https://github.com/kubeflow/examples/tree/master/mnist)
