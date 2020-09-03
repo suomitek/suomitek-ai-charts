@@ -62,6 +62,8 @@ https://juejin.im/post/6844904131346300941
 ## 开源 Kubeflow：在 Kubernetes 上运行机器学习
 https://www.infoq.cn/article/Is2AppS3OzNyZgktwGUB
 
+[Spark-operator, spartakus and tensorboard are missing when installing to existing Kubernetes cluster](https://github.com/kubeflow/kubeflow/issues/5246)
+
 [Build Components and Pipelines](https://www.kubeflow.org/docs/pipelines/sdk/build-component/#compile-the-pipeline)
 
 [Experiment with the Pipelines Samples](https://www.kubeflow.org/docs/pipelines/tutorials/build-pipeline/)
