@@ -62,6 +62,10 @@ https://juejin.im/post/6844904131346300941
 ## 开源 Kubeflow：在 Kubernetes 上运行机器学习
 https://www.infoq.cn/article/Is2AppS3OzNyZgktwGUB
 
+## Cannot deploy kf-serving on kubernetes 1.18
+https://github.com/kubeflow/kfserving/issues/1070
+
+
 [Spark-operator, spartakus and tensorboard are missing when installing to existing Kubernetes cluster](https://github.com/kubeflow/kubeflow/issues/5246)
 
 [Build Components and Pipelines](https://www.kubeflow.org/docs/pipelines/sdk/build-component/#compile-the-pipeline)
